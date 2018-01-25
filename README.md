@@ -1,9 +1,9 @@
-# Widget
+# Виджет
 
-## Description
+## Описание
 
 * Необходимо сделать верстку по макету, используя БЭМ
-* Реализовать widget
+* Реализовать виджет
 
 ### Start development
 Run in development mode **http://localhost:9000**
